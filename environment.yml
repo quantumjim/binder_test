@@ -6,4 +6,4 @@ dependencies:
 - pip:
   - qiskit
   - qiskit-aqua
-- qiskit-aqua-chemistry
+  - qiskit-aqua-chemistry
